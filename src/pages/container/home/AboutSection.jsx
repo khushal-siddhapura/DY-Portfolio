@@ -270,7 +270,7 @@ const AboutSection = () => {
                   className="text-2xl md:text-5xl font-bold tracking-tight mb-6 md:mb-8"
                   style={{ color: "var(--text)" }}
                 >
-                  3+ Years of Experience. <br />
+                  8+ Years of Experience. <br />
                   <span className="animated-gradient-text">
                     100+ Successful Clients.
                   </span>
