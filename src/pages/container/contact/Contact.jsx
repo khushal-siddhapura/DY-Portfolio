@@ -536,7 +536,7 @@
 //   );
 // }
 
-import React, { useState, useRef } from "react";
+import { useState, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Facebook, Instagram, Linkedin, Send } from "lucide-react";
 import emailjs from "@emailjs/browser"; // ✅ EmailJS
@@ -977,7 +977,7 @@ export default function Contact() {
           </a>
           {/* </div> */}
         </div>
-
+          
         {/* Map portal (exact address) */}
         <div
           className="relative rounded-2xl overflow-hidden transition-all"
